@@ -75,7 +75,7 @@ const Header = () => {
           stiffness: 120,
         }}
       >
-        <h1> Pizza Joint </h1>
+        <h1> Pizza Style </h1>
       </motion.div>
     </header>
   );
